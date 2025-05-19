@@ -2,7 +2,7 @@
 A collection of my undergrad assignments, lab work, and projects!
 
 
-## 📌 Table of Contents
+## Term-Wise Coursework
 
 
 - [LEVEL 3 TERM 1](#level-3-term-1)
