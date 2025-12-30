@@ -12,8 +12,9 @@ A collection of my undergrad assignments, lab work, and projects!
 
 
 ##  LEVEL 2 TERM 2 
+- [CSE200 | Technical Writing and Presentation](https://github.com/navwar0/CSE200-Technical-Writing-and-Presentation)
 - [CSE-214 | Software Engineering](https://github.com/navwar0/CSE-214-Software-Engineeering)
-- [CSE-220 | Signals and Linear Systems]
+- [CSE-220 | Signals and Linear Systems](https://github.com/navwar0/CSE220-Signals-and-Linear-Systems)
 
 ##  LEVEL 3 TERM 1
 - [CSE-318 | Artificial Intelligence](https://github.com/navwar0/CSE-318-Artifical-Intellignece)
