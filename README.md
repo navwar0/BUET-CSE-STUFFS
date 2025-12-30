@@ -10,9 +10,13 @@ A collection of my undergrad assignments, lab work, and projects!
 
 ---
 
+
+##  LEVEL 2 TERM 2 
+- [CSE-213 | Software Engineering]
+
 ##  LEVEL 3 TERM 1
 - [CSE-318 | Artificial Intelligence](https://github.com/navwar0/CSE-318-Artifical-Intellignece)
 
 
-##  LEVEL 2 TERM 2 
+
 
