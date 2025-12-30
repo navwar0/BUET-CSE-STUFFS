@@ -11,9 +11,9 @@ A collection of my undergrad assignments, lab work, and projects!
 ---
 
 ## LEVEL 2 TERM 1
-- [DATABASE PROJECT](https://github.com/ShaidurPranto/BLOOD-BRIDGE)
+- [CSE 216 | Database Project](https://github.com/navwar0/Blood-Bridge)
 ##  LEVEL 2 TERM 2 
-- [CSE200 | Technical Writing and Presentation](https://github.com/navwar0/CSE200-Technical-Writing-and-Presentation)
+- [CSE 200 | Technical Writing and Presentation](https://github.com/navwar0/CSE200-Technical-Writing-and-Presentation)
 - [CSE-214 | Software Engineering](https://github.com/navwar0/CSE-214-Software-Engineeering)
 - [CSE-220 | Signals and Linear Systems](https://github.com/navwar0/CSE220-Signals-and-Linear-Systems)
 
