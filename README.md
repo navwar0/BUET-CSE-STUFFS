@@ -7,6 +7,7 @@ A collection of my undergrad assignments, lab work, and projects!
 - [LEVEL 2 TERM 1](#level-2-term-1)
 - [LEVEL 2 TERM 2](#level-2-term-2)
 - [LEVEL 3 TERM 1](#level-3-term-1)
+- [LEVEL 3 TERM 1](#level-3-term-1)
 
 ---
 
@@ -19,6 +20,9 @@ A collection of my undergrad assignments, lab work, and projects!
 
 ##  LEVEL 3 TERM 1
 - [CSE-318 | Artificial Intelligence](https://github.com/navwar0/CSE-318-Artifical-Intellignece)
+
+##  LEVEL 3 TERM 2
+- [CSE-322 | Computer Networks](https://github.com/navwar0/CSE-318-Artifical-Intellignece)
 
 
 
